@@ -6,7 +6,15 @@ p {
     font-weight: lighter;
     display: block;
     font-style: italic;
-    color: red;
+    color: pink;
+
+}
+
+h1 {color: deeppink;
+font-size: medium}
+
+h2 {
+    background-color: antiquewhite;
 }
 
 body {font-weight: bold}
