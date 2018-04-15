@@ -3,6 +3,7 @@
         { firstName: "Jan", lastName: "Kowalski" },
         { firstName: "Andrzej", lastName: "Kielcz" },
         { firstName: "Marta", lastName "Burz"}
+        :firstName: "kasia", lastName: " gjgjg"}
     ];
 
     patientsList.forEach(function (patient) {
